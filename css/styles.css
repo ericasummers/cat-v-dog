@@ -1,0 +1,11 @@
+img {
+  max-width: 250px;
+}
+
+.row {
+  width: 600px;
+}
+
+.col-md-6 {
+  width: 300px;
+}
